@@ -26,3 +26,7 @@ The output is a technical pre-audit, not legal advice.
 ```bash
 uvx pytest tests
 ```
+
+## License
+
+[MIT](LICENSE)

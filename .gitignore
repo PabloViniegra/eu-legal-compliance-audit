@@ -1,2 +1,35 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*.json
+secrets.*
+
+# Audit outputs: they describe real projects and may contain their evidence
+legal_scan*.json
+LEGAL_AUDIT*.md
+
+# Python
 __pycache__/
+*.py[cod]
 .pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+
+# Node (npx skills installs into the project)
+node_modules/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

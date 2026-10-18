@@ -1,5 +1,6 @@
 ---
 name: eu-legal-compliance-audit
+license: MIT
 description: Audit a website, web app, SaaS, e-commerce or mobile backend for EU legal compliance gaps that lead to fines — privacy policy and GDPR notices, cookie consent and prior blocking, legal notice/Impressum, terms, third-party services and international transfers, consumer and e-commerce rules, marketing emails, accessibility (EAA), AI Act transparency, DSA, open-source licenses and basic security — and estimate the sanction exposure in the user's country. Use whenever the user asks for a legal, GDPR/RGPD, cookies, LSSI, privacy or compliance review, asks whether their web "cumple la normativa", wants to avoid fines or complaints to an authority, or is launching to EU users — even for one item such as "check my cookie banner" or "do I need a privacy policy".
 ---
 
